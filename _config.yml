@@ -1,4 +1,19 @@
-analytics: {}
+name: CristalBernardi
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.281531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A8D8D8'
@@ -8,11 +23,9 @@ color:
     - '#F0E880'
   brandStrength: 0.337837
   lightness: 0.322072
-  rhythmicContrast: 0.359234
   saturation: 0.306306
-cta: {}
-layout_spectrum: 1
-name: CristalBernardi
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.281531
+  rhythmicContrast: 0.359234
+purpose:
+  - name: null
+    item: null
+    url: null
