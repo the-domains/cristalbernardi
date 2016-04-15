@@ -6,10 +6,10 @@ color:
     - '#000000'
     - '#F09820'
     - '#F0E880'
-  brandStrength: 0.7389327466415103
-  lightness: 0.6881537050098208
-  rhythmicContrast: 0.5288579929398783
-  saturation: 0.42550959998067306
+  brandStrength: 0.337837
+  lightness: 0.322072
+  rhythmicContrast: 0.359234
+  saturation: 0.306306
 cta: {}
 layout_spectrum: 1
 name: CristalBernardi
