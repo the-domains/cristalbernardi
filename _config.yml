@@ -22,10 +22,10 @@ color:
     - '#000000'
     - '#F09820'
     - '#F0E880'
-  brandStrength: 1
+  brandStrength: 0.3125
   lightness: 0.4375
   saturation: 0.5625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose:
   - name: null
     item: null
