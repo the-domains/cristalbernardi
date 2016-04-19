@@ -1,7 +1,7 @@
 name: CristalBernardi
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.281531
+layout_spectrum: 0.45572
+typography_spectrum: 0.93678
 title: 'Amor '
 cta:
   domain: null
@@ -17,15 +17,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A8D8D8'
-    - '#300800'
-    - '#000000'
-    - '#F09820'
-    - '#F0E880'
-  brandStrength: 0.1875
-  lightness: 0.3125
-  saturation: 0.375
-  rhythmicContrast: 0.25
+    - '#ffffff'
+    - '#767bb2'
+    - '#ec6699'
+    - '#7acfd4'
+    - '#f9cede'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
